@@ -1,0 +1,1 @@
+This is Magdin's first git project!
